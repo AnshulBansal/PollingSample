@@ -30,7 +30,12 @@ import android.widget.Toast;
 
 public class UpdaterService extends Service {
 
+
 	// Branch 2 right noow
+
+	// I am changing Something
+	String master;
+
 	HttpClient client;
 	JSONObject jason;
 	JSONArray jsonArray;
